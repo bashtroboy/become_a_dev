@@ -1,7 +1,7 @@
 # become_a_dev
 This is my plan on moving back to development.
 
-Learning
+#Learning
 
 Online courses
 - [x] Codecademy Ruby 
@@ -18,7 +18,12 @@ Shopify Training
 Other
 - [ ] Ruby Koans
 
+# Goals
 
 Projects
 - [ ] Portfolio website
 
+Enhancements
+- [ ] Help center PR
+- [ ] Nirvana PR
+- [ ] Bug tracker performance page
