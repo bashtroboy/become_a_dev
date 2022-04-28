@@ -1,7 +1,7 @@
 # become_a_dev
 This is my plan on moving back to development.
 
-#Learning
+# Learning
 
 Online courses
 - [x] Codecademy Ruby 
